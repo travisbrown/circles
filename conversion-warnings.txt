@@ -1,0 +1,90 @@
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb00-1.sgm:2:66882:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb00-1.sgm:2:67120:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb00-1.sgm:2:176571:E: there is no attribute "RHYME"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb00-2.sgm:2:209836:E: end tag for "TEXT" omitted, but its declaration does not permit this
+osx:lb/sgml/Lb00-2.sgm:2:1077: start tag was here
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb02-2.sgm:2:43822:E: end tag for element "SP" which is not open
+osx:lb/sgml/Lb02-2.sgm:2:213679:E: there is no attribute "REAL"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb05-1.sgm:2:141511:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb05-1.sgm:2:224408:E: end tag for element "LG" which is not open
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb05-2.sgm:2:172685:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:173753:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:175463:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:179089:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:180614:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:181827:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:213371:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:223979:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:224591:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:225104:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:225503:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:226204:E: end tag for "TEXT" omitted, but its declaration does not permit this
+osx:lb/sgml/Lb05-2.sgm:2:155380: start tag was here
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb98-b.sgm:2:87728:E: there is no attribute "ENJAMB"
+osx:lb/sgml/Lb98-b.sgm:2:101445:E: there is no attribute "RHYME"
+osx:lb/sgml/Lb98-b.sgm:2:103185:E: there is no attribute "RHYME"
+osx:lb/sgml/Lb98-b.sgm:2:178276:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb98-b.sgm:2:183725:E: end tag for element "LG" which is not open
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb98-l.sgm:3:107423:E: there is no attribute "RHYME"
+osx:lb/sgml/Lb98-l.sgm:3:109163:E: there is no attribute "RHYME"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb00-1.sgm:2:66882:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb00-1.sgm:2:67120:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb00-1.sgm:2:176571:E: there is no attribute "RHYME"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb00-2.sgm:2:209836:E: end tag for "TEXT" omitted, but its declaration does not permit this
+osx:lb/sgml/Lb00-2.sgm:2:1077: start tag was here
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb02-2.sgm:2:43822:E: end tag for element "SP" which is not open
+osx:lb/sgml/Lb02-2.sgm:2:213679:E: there is no attribute "REAL"
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb05-1.sgm:2:141511:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb05-1.sgm:2:224408:E: end tag for element "LG" which is not open
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb05-2.sgm:2:172685:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:173753:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:175463:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:179089:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:180614:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:181827:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:213371:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:223979:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:224591:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:225104:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:225503:E: document type does not allow element "TEXT" here
+osx:lb/sgml/Lb05-2.sgm:2:226204:E: end tag for "TEXT" omitted, but its declaration does not permit this
+osx:lb/sgml/Lb05-2.sgm:2:155380: start tag was here
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb98-b.sgm:2:87728:E: there is no attribute "ENJAMB"
+osx:lb/sgml/Lb98-b.sgm:2:101445:E: there is no attribute "RHYME"
+osx:lb/sgml/Lb98-b.sgm:2:103185:E: there is no attribute "RHYME"
+osx:lb/sgml/Lb98-b.sgm:2:178276:E: end tag for element "LG" which is not open
+osx:lb/sgml/Lb98-b.sgm:2:183725:E: end tag for element "LG" which is not open
+osx:/etc/xml/catalog:2:78:E: name expected
+osx:/etc/xml/catalog:2:18:E: cannot find "PUBLIC"; tried "/etc/xml/PUBLIC", "/usr/share/sgml/PUBLIC", "/usr/share/xml/PUBLIC"
+osx:lb/sgml/Lb98-l.sgm:3:107423:E: there is no attribute "RHYME"
+osx:lb/sgml/Lb98-l.sgm:3:109163:E: there is no attribute "RHYME"
