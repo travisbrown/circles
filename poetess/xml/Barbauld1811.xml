@@ -1,0 +1,580 @@
+<?xml version="1.0"?>
+<?NAVIGATOR "KTI" "kti.nav"?>
+<?STYLESPEC "KTI" "kti.ssh"?>
+<!DOCTYPE tei.2 [
+<!ENTITY BarbAEight1H SYSTEM "" NDATA jpeg>
+<!ENTITY BarbAEight1L SYSTEM "" NDATA jpeg>
+<!ENTITY BarbAEight1M SYSTEM "" NDATA jpeg>
+]>
+<tei.2>
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Eighteen Hundred and Eleven, A Poem / by Anna Letitia Barbauld</title>
+        <author>Barbauld, Anna Letitia Aikin, 1743-1825.</author>
+        <respstmt>
+          <name>Andrea Ramirez,</name>
+          <resp>creation of electronic edition.</resp>
+        </respstmt>
+      </titlestmt>
+      <extent>26Kb</extent>
+      <publicationstmt>
+        <publisher>British Women Romantic Poets Project</publisher>
+        <address>
+          <addrline>Shields Library,</addrline>
+          <addrline>University of California, Davis</addrline>
+        </address>
+        <pubplace>Davis, California 95616</pubplace>
+        <date>1998</date>
+        <idno>BarbAEight</idno>
+        <availability>
+          <p>Copyright &#xA9; 1998 University of California</p>
+          <p>This work may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text.  It may be linked to by internet editions of all kinds.</p>
+          <p>Scholars interested in changing or adding to these texts by, for example, creating a new edition of the text (electronically or in print) with substantive editorial changes, may do so with the permission of the publisher.  This is the case whether the new publication will be made available at a cost or free of charge.</p>
+          <p>
+            <emph rend="italic">This text may not be not be reproduced as a commercial or non-profit product, in  print or from an information server.</emph>
+          </p>
+          <p>Available at http://www.lib.ucdavis.edu/English/BWRP/Works/BarbAEight.sgm</p>
+        </availability>
+        <date>1998</date>
+      </publicationstmt>
+      <seriesstmt>
+        <title>University of California, Davis: British Women Romantic Poets Series</title>
+        <idno>16</idno>
+        <respstmt>
+          <name>Nancy Kushigian,</name>
+          <resp>General Editor</resp>
+          <name>Charlotte Payne,</name>
+          <resp>Managing Editor</resp>
+        </respstmt>
+      </seriesstmt>
+      <sourcedesc>
+        <biblfull>
+          <titlestmt>
+            <title>Eighteen Hundred and Eleven</title>
+            <author>Barbauld, Anna Letitia Aikin, 1743-1825</author>
+          </titlestmt>
+          <publicationstmt>
+            <publisher>J.  Johnson</publisher>
+            <pubplace>London</pubplace>
+            <date>1812</date>
+          </publicationstmt>
+          <notesstmt>
+            <note>[This text was scanned from its original in the University of California&#x97;Davis,  Shields Library Kohler Collection I:55]</note>
+            <note>[Kohler ID no: I:55.  Another copy available on microfilm as Kohler I:55mf.]</note>
+          </notesstmt>
+        </biblfull>
+      </sourcedesc>
+    </filedesc>
+    <encodingdesc>
+      <projectdesc>
+        <p>The editors thank the Shields Library, University of California, Davis, for its support for this project.</p>
+        <p>Purchase of software has been made possible by a research grant from the Librarians' Association of the University of California, Davis chapter.</p>
+      </projectdesc>
+      <editorialdecl>
+        <p>All poems, line groups, and lines are represented.
+
+  All material originally typeset has been preserved, with the exception of running heads, the original prose line breaks, signature markings and decorative typographical elements.  Page numbers and breaks have been preserved.  Pencilled annotations and other damage to the text has not been preserved.</p>
+      </editorialdecl>
+    </encodingdesc>
+  </teiheader>
+  <text>
+    <front>
+      <p>
+        <figure entity="BarbAEight1M"/>
+        <titlepage>
+          <pb id="pi" n="[i]">
+            <doctitle>
+              <titlepart>EIGHTEEN HUNDRED <lb>AND ELEVEN.</lb></titlepart>
+              <pb id="pii" n="[ii]">
+                <pb id="piii" n="[iii]">
+                  <titlepart>EIGHTEEN HUNDRED<lb>AND ELEVEN,</lb></titlepart>
+                  <titlepart type="sub">
+                    <hi rend="italics">A POEM.</hi>
+                  </titlepart>
+                </pb>
+              </pb>
+            </doctitle>
+            <byline>BY<docauthor>ANNA L&#xC6;TITIA BARBAULD.</docauthor></byline>
+            <docimprint>LONDON:<lb>PRINTED FOR J. JOHNSON AND CO.,<lb>ST. PAUL'S CHURCHYARD.<lb>1812.<pb id="piv" n="[iv]">PRINTED BY<lb>RICHARD TAYLOR AND CO., SHOE LANE.</lb></pb></lb></lb></lb></docimprint>
+          </pb>
+        </titlepage>
+      </p>
+    </front>
+    <body>
+      <pb id="p1" n="[1]">
+        <div0 type="poem">
+          <head>EIGHTEEN HUNDRED<lb>AND ELEVEN.</lb></head>
+          <lg type="stanza">
+            <l>STILL the loud death drum, thundering from afar,</l>
+            <l>O'er the vext nations pours the storm of war:</l>
+            <l>To the stern call still Britain bends her ear,</l>
+            <l>Feeds the fierce strife, the alternate hope and fear;</l>
+            <l>Bravely, though vainly, dares to strive with Fate,</l>
+            <l>And seeks by turns to prop each sinking state.</l>
+            <pb id="p2" n="2">
+              <l>Colossal Power with overwhelming force</l>
+              <l>Bears down each fort of Freedom in its course;</l>
+              <l>Prostrate she lies beneath the Despot's sway,</l>
+              <l>While the hushed nations curse him&#x2014;and obey.</l>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">Bounteous in vain, with frantic man at strife,</l>
+            <l>Glad Nature pours the means&#x2014;the joys of life;</l>
+            <l>In vain with orange blossoms scents the gale,</l>
+            <l>The hills with olives clothes, with corn the vale;</l>
+            <l>Man calls to Famine, nor invokes in vain,</l>
+            <l>Disease and Rapine follow in her train;</l>
+            <l>The tramp of marching hosts disturbs the plough,</l>
+            <l>The sword, not sickle, reaps the harvest now,</l>
+            <l>And where the Soldier gleans the scant supply,</l>
+            <l>The helpless Peasant but retires to die;</l>
+            <pb id="p3" n="3">
+              <l>No laws his hut from licensed outrage shield,</l>
+              <l>And war's least horror is the ensanguined field.</l>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">Fruitful in vain, the matron counts with pride</l>
+            <l>The blooming youths that grace her honoured side;</l>
+            <l>No son returns to press her widow'd hand,</l>
+            <l>Her fallen blossoms strew a foreign strand.</l>
+            <l>&#x2014;Fruitful in vain, she boasts her virgin race,</l>
+            <l>Whom cultured arts adorn and gentlest grace;</l>
+            <l>Defrauded of its homage, Beauty mourns,</l>
+            <l>And the rose withers on its virgin thorns.</l>
+            <l>Frequent, some stream obscure, some uncouth name</l>
+            <l>By deeds of blood is lifted into fame;</l>
+            <l>Oft o'er the daily page some soft-one bends</l>
+            <l>To learn the fate of husband, brothers, friends,</l>
+            <pb id="p4" n="4">
+              <l>Or the spread map with anxious eye explores,</l>
+              <l>Its dotted boundaries and penciled shores,</l>
+              <l>Asks <emph rend="italics">where</emph> the spot that wrecked her bliss is found,</l>
+              <l>And learns its name but to detest the sound.</l>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">And thinks't thou, Britain, still to sit at ease,</l>
+            <l>An island Queen amidst thy subject seas,</l>
+            <l>While the vext billows, in their distant roar,</l>
+            <l>But soothe thy slumbers, and but kiss thy shore?</l>
+            <l>To sport in wars, while danger keeps aloof,</l>
+            <l>Thy grassy turf unbruised by hostile hoof?</l>
+            <l>So sing thy flatterers; but, Britain, know,</l>
+            <l>Thou who hast shared the guilt must share the woe.</l>
+            <l>Nor distant is the hour; low murmurs spread,</l>
+            <l>And whispered fears, creating what they dread;</l>
+            <pb id="p5" n="5">
+              <l>Ruin, as with an earthquake shock, is here,</l>
+              <l>There, the heart-witherings of unuttered fear,</l>
+              <l>And that sad death, whence most affection bleeds,</l>
+              <l>Which sickness, only of the soul, precedes.</l>
+              <l>Thy baseless wealth dissolves in air away,</l>
+              <l>Like mists that melt before the morning ray:</l>
+              <l>No more on crowded mart or busy street</l>
+              <l>Friends, meeting friends, with cheerful hurry greet;</l>
+              <l>Sad, on the ground thy princely merchants bend</l>
+              <l>Their altered looks, and evil days portend,</l>
+              <l>And fold their arms, and watch with anxious breast</l>
+              <l>The tempest blackening in the distant West.</l>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">Yes, thou must droop; thy Midas dream is o'er;</l>
+            <l>The golden tide of Commerce leaves thy shore,</l>
+            <pb id="p6" n="6">
+              <l>Leaves thee to prove the alternate ills that haunt</l>
+              <l>Enfeebling Luxury and ghastly Want;</l>
+              <l>Leaves thee, perhaps, to visit distant lands,</l>
+              <l>And deal the gifts of Heaven with equal hands.</l>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">Yet, O my Country, name beloved, revered,</l>
+            <l>By every tie that binds the soul endeared,</l>
+            <l>Whose image to my infant senses came</l>
+            <l>Mixt with Religion's light and Freedom's holy flame!</l>
+            <l>If prayers may not avert, if 'tis thy fate</l>
+            <l>To rank amongst the names that once were great,</l>
+            <l>Not like the dim cold Crescent shalt thou fade,</l>
+            <l>Thy debt to Science and the Muse unpaid;</l>
+            <l>Thine are the laws surrounding states revere,</l>
+            <l>Thine the full harvest of the mental year,</l>
+            <pb id="p7" n="7">
+              <l>Thine the bright stars in Glory's sky that shine,</l>
+              <l>And arts that make it life to live are thine.</l>
+              <l>If westward streams the light that leaves thy shores,</l>
+              <l>Still from thy lamp the streaming radiance pours.</l>
+              <l>Wide spreads thy race from Ganges to the pole,</l>
+              <l>O'er half the western world thy accents roll:</l>
+              <l>Nations beyond the Apalachian hills</l>
+              <l>Thy hand has planted and thy spirit fills:</l>
+              <l>Soon as their gradual progress shall impart</l>
+              <l>The finer sense of morals and of art,</l>
+              <l>Thy stores of knowledge the new states shall know,</l>
+              <l>And think thy thoughts, and with thy fancy glow;</l>
+              <l>Thy Lockes, thy Paleys shall instruct their youth,   </l>
+              <l>Thy leading star direct their search for truth;</l>
+              <pb id="p8" n="8">
+                <l>Beneath the spreading Platan's tent-like shade,</l>
+                <l>Or by Missouri's rushing waters laid,</l>
+                <l>"Old father Thames" shall be the Poets' theme,</l>
+                <l>Of Hagley's woods the enamoured virgin dream,</l>
+                <l>And Milton's tones the raptured ear enthrall,</l>
+                <l>Mixt with the roar of Niagara's fall;</l>
+                <l>In Thomson's glass the ingenuous youth shall learn</l>
+                <l>A fairer face of Nature to discern;</l>
+                <l>Nor of the Bards that swept the British lyre</l>
+                <l>Shall fade one laurel, or one note expire.</l>
+                <l>Then, loved Joanna, to admiring eyes</l>
+                <l>Thy storied groups in scenic pomp shall rise;</l>
+                <l>Their high soul'd strains and Shakespear's noble rage</l>
+                <l>Shall with alternate passion shake the stage.</l>
+                <pb id="p9" n="9">
+                  <l>Some youthful Basil from thy moral lay</l>
+                  <l>With stricter hand his fond desires shall sway;</l>
+                  <l>Some Ethwald, as the fleeting shadows pass,</l>
+                  <l>Start at his likeness in the mystic glass;</l>
+                  <l>The tragic Muse resume her just controul,</l>
+                  <l>With pity and with terror purge the soul,</l>
+                  <l>While wide o'er transatlantic realms thy name</l>
+                  <l>Shall live in light, and gather <emph rend="italics">all</emph> its fame.</l>
+                </pb>
+              </pb>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">Where wanders Fancy down the lapse of years</l>
+            <l>Shedding o'er imaged woes untimely tears?</l>
+            <l>Fond moody Power!  as hopes&#x2014;as fears prevail,</l>
+            <l>She longs, or dreads, to lift the awful veil,</l>
+            <l>On visions of delight now loves to dwell,</l>
+            <l>Now hears the shriek of woe or Freedom's knell:</l>
+            <pb id="p10" n="10">
+              <l>Perhaps, she says, long ages past away,</l>
+              <l>And set in western waves our closing day,</l>
+              <l>Night, Gothic night, again may shade the plains</l>
+              <l>Where Power is seated, and where Science reigns;</l>
+              <l>England, the seat of arts; be only known</l>
+              <l>By the gray ruin and the mouldering stone;</l>
+              <l>That Time may tear the garland from her brow,</l>
+              <l>And Europe sit in dust, as Asia now.</l>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">Yet then the ingenuous youth whom Fancy fires</l>
+            <l>With pictured glories of illustrious sires,</l>
+            <l>With duteous zeal their pilgrimage shall take</l>
+            <l>From the blue mountains, or Ontario's lake,</l>
+            <l>With fond adoring steps to press the sod</l>
+            <l>By statesmen, sages, poets, heroes trod;</l>
+            <pb id="p11" n="11">
+              <l>On Isis' banks to draw inspiring air,</l>
+              <l>From Runnymede to send the patriot's prayer;</l>
+              <l>In pensive thought, where Cam's slow waters wind,</l>
+              <l>To meet those shades that ruled the realms of mind;</l>
+              <l>In silent halls to sculptured marbles bow,</l>
+              <l>And hang fresh wreaths round Newton's awful brow.</l>
+              <l>Oft shall they seek some peasant's homely shed,</l>
+              <l>Who toils, unconscious of the mighty dead,</l>
+              <l>To ask where Avon's winding waters stray,</l>
+              <l>And thence a knot of wild flowers bear away;</l>
+              <l>Anxious enquire where Clarkson, friend of man,</l>
+              <l>Or all-accomplished Jones his race began;</l>
+              <l>If of the modest mansion aught remains</l>
+              <l>Where Heaven and Nature prompted Cowper's strains;</l>
+              <pb id="p12" n="12">
+                <l>Where Roscoe, to whose patriot breast belong</l>
+                <l>The Roman virtue and the Tuscan song,</l>
+                <l>Led Ceres to the black and barren moor</l>
+                <l>Where Ceres never gained a wreath before<ref id="barbauld1" n="asterisk" resp="auth" target="barbauld-note1">*</ref>:</l>
+                <l>With curious search their pilgrim steps shall rove</l>
+                <l>By many a ruined tower and proud alcove,</l>
+                <l>Shall listen for those strains that soothed of yore</l>
+                <l>Thy rock, stern Skiddaw, and thy fall, Lodore;</l>
+                <l>Feast with Dun Edin's classic brow their sight,</l>
+                <l>And visit "Melross by the pale moonlight."</l>
+              </pb>
+            </pb>
+          </lg>
+          <note id="barbauld-note1" resp="auth" place="foot of page 12" target="barbauld1"> * The Historian of the age of Leo has brought into cultivation the extensive tract of Chatmoss.<note>[Note appears at foot of page 12 in original copy.]</note></note>
+          <lg type="stanza">
+            <l rend="indent1">But who their mingled feelings shall pursue</l>
+            <l>When London's faded glories rise to view?</l>
+            <pb id="p13" n="13">
+              <l>The mighty city, which by every road,</l>
+              <l>In floods of people poured itself abroad;</l>
+              <l>Ungirt by walls, irregularly great,</l>
+              <l>No jealous drawbridge, and no closing gate;</l>
+              <l>Whose merchants (such the state which commerce brings)</l>
+              <l>Sent forth their mandates to dependant kings;</l>
+              <l>Streets, where the turban'd Moslem, bearded Jew,</l>
+              <l>And woolly Afric, met the brown Hindu;</l>
+              <l>Where through each vein spontaneous plenty flowed,</l>
+              <l>Where Wealth enjoyed, and Charity bestowed.</l>
+              <l>Pensive and thoughtful shall the wanderers greet</l>
+              <l>Each splendid square, and still, untrodden street;</l>
+              <l>Or of some crumbling turret, mined by time,</l>
+              <l>The broken stair with perilous step shall climb,</l>
+              <pb id="p14" n="14">
+                <l>Thence stretch their view the wide horizon round,</l>
+                <l>By scattered hamlets trace its antient bound,</l>
+                <l>And, choked no more with fleets, fair Thames survey</l>
+                <l>Through reeds and sedge pursue his idle way.</l>
+              </pb>
+            </pb>
+          </lg>
+          <lg type="stanza">
+            <l rend="indent1">With throbbing bosoms shall the wanderers tread</l>
+            <l>The hallowed mansions of the silent dead,</l>
+            <l>Shall enter the long isle and vaulted dome</l>
+            <l>Where Genius and where Valour find a home;</l>
+            <l>Awe-struck, midst chill sepulchral marbles breathe,</l>
+            <l>Where all above is still, as all beneath;</l>
+            <l>Bend at each antique shrine, and frequent turn</l>
+            <l>To clasp with fond delight some sculptured urn,</l>
+            <l>The ponderous mass of Johnson's form to greet,</l>
+            <l>Or breathe the prayer at Howard's sainted feet.</l>
+          </lg>
+          <pb id="p15" n="15">
+            <lg type="stanza">
+              <l rend="indent1">Perhaps some Briton, in whose musing mind</l>
+              <l>Those ages live which Time has cast behind,</l>
+              <l>To every spot shall lead his wondering guests</l>
+              <l>On whose known site the beam of glory rests:</l>
+              <l>Here Chatham's eloquence in thunder broke,</l>
+              <l>Here Fox persuaded, or here Garrick spoke;</l>
+              <l>Shall boast how Nelson, fame and death in view,</l>
+              <l>To wonted victory led his ardent crew,</l>
+              <l>In England's name enforced, with loftiest tone<ref id="barbauld2" n="asterisk" resp="auth" target="barbauld-note2">*</ref>,</l>
+              <l>Their duty&#x2014;and too well fulfilled his own:</l>
+              <l>How gallant Moore<ref id="barbauld3" n="dagger" resp="auth" target="barbauld-note3">&#x2020;</ref>, as ebbing life dissolved,</l>
+              <l><emph rend="italics">But </emph>hoped his country had his fame absolved.</l>
+              <pb id="p16" n="16">
+                <l>Or call up sages whose capacious mind</l>
+                <l>Left in its course a track of light behind;</l>
+                <l>Point where mute crowds on Davy's lips reposed,</l>
+                <l>And Nature's coyest secrets were disclosed;</l>
+                <l>Join with their Franklin, Priestley's injured name,</l>
+                <l>Whom, then, each continent shall proudly claim.</l>
+              </pb>
+            </lg>
+            <note id="barbauld-note2" resp="auth" place="foot of page 15" target="barbauld2"> * Every reader will recollect the sublime telegraphic dispatch,
+
+"England expects every man to do his duty."<note>[Note appears at foot of page 15 in original copy.]</note></note>
+            <note id="barbauld-note3" resp="auth" place="foot of page 15" target="barbauld3"> &#x2020; "I hope England will be satisfied," were the last words of General Moore.<note>[Note appears at foot of page 15 in original copy.]</note></note>
+            <lg type="stanza">
+              <l rend="indent1">Oft shall the strangers turn their eager feet</l>
+              <l>The rich remains of antient art to greet,</l>
+              <l>The pictured walls with critic eye explore,</l>
+              <l>And Reynolds be what Raphael was before.</l>
+              <l>On spoils from every clime their eyes shall gaze,</l>
+              <l>&#xC6;gyptian granites and the Etruscan vase;</l>
+              <l>And when midst fallen London, they survey</l>
+              <l>The stone where Alexander's ashes lay,</l>
+              <pb id="p17" n="17">
+                <l>Shall own with humbled pride the lesson just</l>
+                <l>By Time's slow finger written in the dust.</l>
+              </pb>
+            </lg>
+            <lg type="stanza">
+              <l rend="indent1">There walks a Spirit o'er the peopled earth,</l>
+              <l>Secret his progress is, unknown his birth;</l>
+              <l>Moody and viewless as the changing wind,</l>
+              <l>No force arrests his foot, no chains can bind; </l>
+              <l>Where'er he turns, the human brute awakes,</l>
+              <l>And, roused to better life, his sordid hut forsakes:</l>
+              <l>He thinks, he reasons, glows with purer fires,</l>
+              <l>Feels finer wants, and burns with new desires:</l>
+              <l>Obedient Nature follows where he leads;</l>
+              <l>The steaming marsh is changed to fruitful meads;</l>
+              <l>The beasts retire from man's asserted reign, </l>
+              <l>And prove his kingdom was not given in vain.</l>
+              <pb id="p18" n="18">
+                <l>Then from its bed is drawn the ponderous ore,</l>
+                <l>Then Commerce pours her gifts on every shore,</l>
+                <l>Then Babel's towers and terrassed gardens rise,</l>
+                <l>And pointed obelisks invade the skies;</l>
+                <l>The prince commands, in Tyrian purple drest,</l>
+                <l>And &#xC6;gypt's virgins weave the linen vest.</l>
+                <l>Then spans the graceful arch the roaring tide,        </l>
+                <l>And stricter bounds the cultured fields divide.</l>
+                <l>Then kindles Fancy, then expands the heart,</l>
+                <l>Then blow the flowers of Genius and of Art;</l>
+                <l>Saints, Heroes, Sages, who the land adorn,</l>
+                <l>Seem rather to descend than to be born;</l>
+                <l>Whilst History, midst the rolls consigned to fame,</l>
+                <l>With pen of adamant inscribes their name.</l>
+              </pb>
+            </lg>
+            <pb id="p19" n="19">
+              <lg type="stanza">
+                <l rend="indent1">The Genius now forsakes the favoured shore,</l>
+                <l>And hates, capricious, what he loved before;</l>
+                <l>Then empires fall to dust, then arts decay,</l>
+                <l>And wasted realms enfeebled despots sway;</l>
+                <l>Even Nature's changed; without his fostering smile</l>
+                <l>Ophir no gold, no plenty yields the Nile;</l>
+                <l>The thirsty sand absorbs the useless rill,</l>
+                <l>And spotted plagues from putrid fens distill.</l>
+                <l>In desert solitudes then Tadmor sleeps,</l>
+                <l>Stern Marius then o'er fallen Carthage weeps;</l>
+                <l>Then with enthusiast love the pilgrim roves</l>
+                <l>To seek his footsteps in forsaken groves,</l>
+                <l>Explores the fractured arch, the ruined tower,</l>
+                <l>Those limbs disjointed of gigantic power;</l>
+                <pb id="p20" n="20">
+                  <l>Still at each step he dreads the adder's sting,</l>
+                  <l>The Arab's javelin, or the tiger's spring;</l>
+                  <l>With doubtful caution treads the echoing ground,</l>
+                  <l>And asks where Troy or Babylon is found.</l>
+                </pb>
+              </lg>
+              <lg type="stanza">
+                <l rend="indent1">And now the vagrant Power no more detains</l>
+                <l>The vale of Tempe, or Ausonian plains;</l>
+                <l>Northward he throws the animating ray,</l>
+                <l>O'er Celtic nations bursts the mental day:</l>
+                <l>And, as some playful child the mirror turns,</l>
+                <l>Now here now there the moving lustre burns;</l>
+                <l>Now o'er his changeful fancy more prevail</l>
+                <l>Batavia's dykes than Arno's purple vale,</l>
+                <l>And stinted suns, and rivers bound with frost,</l>
+                <l>Than Enna's plains or Baia's viny coast;</l>
+                <pb id="p21" n="21">
+                  <l>Venice the Adriatic weds in vain,</l>
+                  <l>And Death sits brooding o'er Campania's plain;</l>
+                  <l>O'er Baltic shores and through Hercynian groves,</l>
+                  <l>Stirring the soul, the mighty impulse moves;</l>
+                  <l>Art plies his tools, and Commerce spreads her sail,</l>
+                  <l>And wealth is wafted in each shifting gale.</l>
+                  <l>The sons of Odin tread on Persian looms,</l>
+                  <l>And Odin's daughters breathe distilled perfumes;</l>
+                  <l>Loud minstrel Bards, in Gothic halls, rehearse</l>
+                  <l>The Runic rhyme, and "build the lofty verse:"</l>
+                  <l>The Muse, whose liquid notes were wont to swell</l>
+                  <l>To the soft breathings of the' &#xC6;olian shell,</l>
+                  <l>Submits, reluctant, to the harsher tone,</l>
+                  <l>And scarce believes the altered voice her own.</l>
+                  <pb id="p22" n="22">
+                    <l>And now, where C&#xE6;sar saw with proud disdain</l>
+                    <l>The wattled hut and skin of azure stain,</l>
+                    <l>Corinthian columns rear their graceful forms,</l>
+                    <l>And light varandas brave the wintry storms,</l>
+                    <l>While British tongues the fading fame prolong</l>
+                    <l>Of Tully's eloquence and Maro's song.</l>
+                    <l>Where once Bonduca whirled the scythed car,</l>
+                    <l>And the fierce matrons raised the shriek of war,</l>
+                    <l>Light forms beneath transparent muslins float,</l>
+                    <l>And tutored voices swell the artful note.</l>
+                    <l>Light-leaved acacias and the shady plane</l>
+                    <l>And spreading cedar grace the woodland reign;</l>
+                    <l>While crystal walls the tenderer plants confine,</l>
+                    <l>The fragrant orange and the nectared pine;</l>
+                    <pb id="p23" n="23">
+                      <l>The Syrian grape there hangs her rich festoons,</l>
+                      <l>Nor asks for purer air, or brighter noons:</l>
+                      <l>Science and Art urge on the useful toil,</l>
+                      <l>New mould a climate and create the soil,</l>
+                      <l>Subdue the rigour of the northern Bear,</l>
+                      <l>O'er polar climes shed aromatic air,</l>
+                      <l>On yielding Nature urge their new demands,</l>
+                      <l>And ask not gifts but tribute at her hands.</l>
+                    </pb>
+                  </pb>
+                </pb>
+              </lg>
+              <lg type="stanza">
+                <l rend="indent1">London exults:&#x2014;on London Art bestows</l>
+                <l>Her summer ices and her winter rose;</l>
+                <l>Gems of the East her mural crown adorn,</l>
+                <l>And Plenty at her feet pours forth her horn;</l>
+                <l>While even the exiles her just laws disclaim,</l>
+                <l>People a continent, and build a name:</l>
+                <pb id="p24" n="24">
+                  <l>August she sits, and with extended hands</l>
+                  <l>Holds forth the book of life to distant lands.</l>
+                </pb>
+              </lg>
+              <lg type="stanza">
+                <l rend="indent1">But fairest flowers expand but to decay;</l>
+                <l>The worm is in thy core, thy glories pass away;</l>
+                <l>Arts, arms and wealth destroy the fruits they bring;</l>
+                <l>Commerce, like beauty, knows no second spring.</l>
+                <l>Crime walks thy streets, Fraud earns her unblest bread,</l>
+                <l>O'er want and woe thy gorgeous robe is spread,</l>
+                <l>And angel charities in vain oppose:</l>
+                <l>With grandeur's growth the mass of misery grows.</l>
+                <l>For see,&#x2014;to other climes the Genius soars,</l>
+                <l>He turns from Europe's desolated shores;</l>
+                <l>And lo, even now, midst mountains wrapt in storm,</l>
+                <l>On Andes' heights he shrouds his awful form;</l>
+                <pb id="p25" n="25">
+                  <l>On Chimborazo's summits treads sublime,</l>
+                  <l>Measuring in lofty thought the march of Time;</l>
+                  <l>Sudden he calls:&#x2014;"'Tis now the hour!" he cries,</l>
+                  <l>Spreads his broad hand, and bids the nations rise.</l>
+                  <l>La Plata hears amidst her torrents' roar,</l>
+                  <l>Potosi hears it, as she digs the ore:</l>
+                  <l>Ardent, the Genius fans the noble strife;</l>
+                  <l>And pours through feeble souls a higher life,</l>
+                  <l>Shouts to the mingled tribes from sea to sea,</l>
+                  <l>And swears&#x2014;Thy world, Columbus, shall be free.</l>
+                </pb>
+              </lg>
+            </pb>
+          </pb>
+        </div0>
+        <closer>THE END.</closer>
+        <trailer>RICHARD TAYLOR AND CO., PRINTERS,<lb>SHOE LANE, LONDON.</lb></trailer>
+      </pb>
+    </body>
+    <pb id="pv" n="[v]">
+      <back>
+        <div type="advertisements">
+          <list>
+            <head>PUBLISHED BY <name>MRS. BARBAULD.</name></head>
+            <item>1.Poems, 1 vol. small octavo.</item>
+            <item>2.Miscellaneous Pieces, in Prose, by Mrs. Barbauld and Dr. Aikin.</item>
+            <item>3.Lessons for Children, in 4 parts, 2<hi rend="italics">s</hi>.</item>
+            <item>4.Hymns in Prose, for Children, 1<hi rend="italics">s</hi>.</item>
+            <item rend="indent1">5.Selections from The Spectator, Tatler, and Guardian, with a Preface, in 3 vols., small 8vo. 18<hi rend="italics">s</hi>.; and in 12mo.  10<hi rend="italics">s</hi>.  6<hi rend="italics">d</hi>. boards.</item>
+          </list>
+        </div>
+        <div type="ad2">
+          <list>
+            <head>PUBLISHED BY <name>DR. AIKIN.</name></head>
+            <item rend="indent1">1.Letters from a Father to his Son, on various Topics relative to Literature and the Conduct of Life, 2 vols. 12<hi rend="italics">s</hi>. boards.</item>
+            <item>2.Evenings at Home, or the Family Budget opened, 2 vols. 10<hi rend="italics">s</hi>. 6<hi rend="italics">d</hi>.</item>
+            <item>3.The Arts of Life.  1.  Of Providing Food.2.  Of Providing Clothing.3. Of Providing Shelter. 2<hi rend="italics">s</hi>.</item>
+            <item>4.England Delineated, or A Geographical Description of England and Wales, with an Outline Map of every County. Sixth Edition. 7<hi rend="italics">s</hi>. boards.</item>
+            <item>5.The Calendar of Nature. 1<hi rend="italics">s</hi>.</item>
+            <item>6.Geographical Delineations; or A Compendious View of the  Natural and Political State of all Parts of the Globe. 2 vols. 12<hi rend="italics">s</hi>.</item>
+            <item>7.Vocal Poetry; with an Essay on Song Writing. 8vo. 9<hi rend="italics">s</hi>.</item>
+            <item>8.Essays Literary and Miscellaneous, 8vo. 10<hi rend="italics">s</hi>.  6<hi rend="italics">d</hi>.  boards.</item>
+            <item>9.Biographical Memoirs of Medicine in Great Britain, from the Revival of Literature to the Time of Harvey. 8vo. 5<hi rend="italics">s</hi>.</item>
+            <item>10.A Translation of Tacitus' Manners of the Germans, and Life of Agricola. 5<hi rend="italics">s</hi>.</item>
+            <item>11.Letters to a Young Lady on a Course of English Poetry.  6<hi rend="italics">s</hi>.</item>
+          </list>
+        </div>
+        <div type="ad3">
+          <list>
+            <head>PUBLISHED BY MR. <name>ARTHUR AIKIN</name>.</head>
+            <item>1.The Natural History of the Year. Being an Enlargement of Dr. Aikin's Calendar of Nature. 3<hi rend="italics">s</hi>.  bound.</item>
+            <item>2.A Journal of a Tour through North Wales and Part of Shropshire, with Observations in Mineralogy and other Branches of Natural History. 4<hi rend="italics">s</hi>.</item>
+          </list>
+        </div>
+        <div type="ad4">
+          <list>
+            <head>PUBLISHED BY MISS <name>LUCY AIKIN</name>.</head>
+            <item>1.Epistles on Women ; exemplifying their Character and Condition in various Ages and Nations. With Miscellaneous Poems. Small quarto. 12<hi rend="italics">s</hi>.</item>
+            <item>2.Juvenile Correspondence ; or Letters designed as Examples of the Epistolary Style, for Children of both Sexes. 2<hi rend="italics">s</hi>. 6<hi rend="italics">d</hi>.</item>
+            <item>3.Translation of the Life of Ulrich Zwingle, the Swiss Reformer. By J. G. Hess. 10<hi rend="italics">s</hi>. 6<hi rend="italics">d</hi>.</item>
+          </list>
+        </div>
+      </back>
+    </pb>
+  </text>
+</tei.2>
