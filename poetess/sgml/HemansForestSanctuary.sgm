@@ -6,6 +6,13 @@
 <!ENTITY HemaFFores1H SYSTEM "./images/HemaFFores1H.jpg" NDATA JPEG>
 <!ENTITY HemaFFores1M SYSTEM "./images/HemaFFores1M.jpg" NDATA JPEG>
 <!ENTITY HemaFFores1L SYSTEM "./images/HemaFFores1L.jpg" NDATA JPEG>
+<!ENTITY aelig  CDATA "&#230;">
+<!ENTITY ast    CDATA "*">
+<!ENTITY copy   CDATA "&#169;">
+<!ENTITY dagger CDATA "&#8224;">
+<!ENTITY hyphen CDATA "&#173;">
+<!ENTITY mdash  CDATA "&#8212;">
+<!ENTITY AElig  CDATA "&#198;">
 ]>
 <TEI.2><TEIHEADER><FILEDESC><TITLESTMT><TITLE>The Forest Sanctuary and Other Poems.</TITLE><AUTHOR><NAME>Hemans, Felicia Dorothea Browne, Mrs. </NAME><DATE>1793&hyphen;1835</DATE></AUTHOR><RESPSTMT><NAME>Ophelia Yim,</NAME><RESP>creation of electronic text.</RESP></RESPSTMT></TITLESTMT><EDITIONSTMT><EDITION>Electronic edition</EDITION></EDITIONSTMT><EXTENT>244Kb</EXTENT><PUBLICATIONSTMT><PUBLISHER>British Women Romantic Poets Project</PUBLISHER><PUBPLACE>Shields Library, University of California, Davis, California 95616</PUBPLACE><DATE>1999</DATE><IDNO>HemaFFores</IDNO><AVAILABILITY><P>Copyright &copy; 1999, University of California.</P><P>This edition may be copied freely by individuals for personal use, research, and teaching (including distribution to classes) as long as this statement of availability is included in the text.  It may be linked to by internet editions of all kinds.</P>
 <P>Scholars interested in changing or adding to these texts by, for example, creating a new edition of the text (electronically or in print) with substantive editorial changes, may do so with the permission of the publisher.  This is the case whether the new publication will be made available at a cost or free of charge.</P><P><HI
