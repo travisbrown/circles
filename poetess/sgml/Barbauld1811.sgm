@@ -1,6 +1,7 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.6//EN"[
 <?NAVIGATOR "KTI" "kti.nav">
 <?STYLESPEC "KTI" "kti.ssh">
+<!ELEMENT PB -O EMPTY>
 <!ENTITY % TEI.linking "INCLUDE">
 <!ENTITY % TEI.graphics "INCLUDE">
 <!ENTITY BarbAEight1H SYSTEM "./images/BarbAEight1H.JPG" NDATA JPEG>
