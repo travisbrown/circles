@@ -85,23 +85,23 @@
         <titlepage>
           <pb id="pi" n="[i]"/>
           <doctitle>
-            <titlepart>EIGHTEEN HUNDRED <lb>AND ELEVEN.</lb></titlepart>
+            <titlepart>EIGHTEEN HUNDRED <lb/>AND ELEVEN.</titlepart>
             <pb id="pii" n="[ii]"/>
             <pb id="piii" n="[iii]"/>
-            <titlepart>EIGHTEEN HUNDRED<lb>AND ELEVEN,</lb></titlepart>
+            <titlepart>EIGHTEEN HUNDRED<lb/>AND ELEVEN,</titlepart>
             <titlepart type="sub">
               <hi rend="italics">A POEM.</hi>
             </titlepart>
           </doctitle>
           <byline>BY<docauthor>ANNA L&#xC6;TITIA BARBAULD.</docauthor></byline>
-          <docimprint>LONDON:<lb>PRINTED FOR J. JOHNSON AND CO.,<lb>ST. PAUL'S CHURCHYARD.<lb>1812.<pb id="piv" n="[iv]"/>PRINTED BY<lb>RICHARD TAYLOR AND CO., SHOE LANE.</lb></lb></lb></lb></docimprint>
+          <docimprint>LONDON:<lb/>PRINTED FOR J. JOHNSON AND CO.,<lb/>ST. PAUL'S CHURCHYARD.<lb/>1812.<pb id="piv" n="[iv]"/>PRINTED BY<lb/>RICHARD TAYLOR AND CO., SHOE LANE.</docimprint>
         </titlepage>
       </p>
     </front>
     <body>
       <pb id="p1" n="[1]"/>
       <div0 type="poem">
-        <head>EIGHTEEN HUNDRED<lb>AND ELEVEN.</lb></head>
+        <head>EIGHTEEN HUNDRED<lb/>AND ELEVEN.</head>
         <lg type="stanza">
           <l>STILL the loud death drum, thundering from afar,</l>
           <l>O'er the vext nations pours the storm of war:</l>
@@ -501,7 +501,7 @@
         </lg>
       </div0>
       <closer>THE END.</closer>
-      <trailer>RICHARD TAYLOR AND CO., PRINTERS,<lb>SHOE LANE, LONDON.</lb></trailer>
+      <trailer>RICHARD TAYLOR AND CO., PRINTERS,<lb/>SHOE LANE, LONDON.</trailer>
     </body>
     <pb id="pv" n="[v]"/>
     <back>

@@ -97,26 +97,24 @@
       <titlepage>
         <pb id="pi" n="[i]"/>
         <doctitle>
-          <titlepart type="stanza">THE<lb>FOREST SANCTUARY, <lb>c.</lb></lb></titlepart>
+          <titlepart type="stanza">THE<lb/>FOREST SANCTUARY, <lb/>c.</titlepart>
         </doctitle>
         <pb id="pii" n="[ii]"/>
-        <docimprint>
-          <pubplace>LONDON:</pubplace>
-          <lb>PRINTED BY <publisher><name>THOMAS DAVISON,</name></publisher> WHITEFRIARS.</lb>
-        </docimprint>
+        <docimprint><pubplace>LONDON:</pubplace><lb/>
+PRINTED BY <publisher><name>THOMAS DAVISON,</name></publisher> WHITEFRIARS.</docimprint>
       </titlepage>
       <pb id="piii" n="[iii]"/>
       <div1 type="illustration of title page"/>
       <titlepage>
         <doctitle>
-          <titlepart>THE<lb>FOREST SANCTUARY;<lb>AND<lb>OTHER POEMS.</lb></lb></lb></titlepart>
+          <titlepart>THE<lb/>FOREST SANCTUARY;<lb/>
+AND<lb/>OTHER POEMS.</titlepart>
         </doctitle>
         <byline>BY MRS. HEMANS.</byline>
         <docimprint>
           <pubplace>LONDON:</pubplace>
-          <lb>
-            <publisher><name>JOHN MURRAY,</name> ALBEMARLE&#xAD;STREET.</publisher>
-          </lb>
+          <lb/>
+          <publisher><name>JOHN MURRAY,</name> ALBEMARLE&#xAD;STREET.</publisher>
         </docimprint>
         <docdate>MDCCCXXV.</docdate>
       </titlepage>
@@ -166,7 +164,7 @@
     <body>
       <div1 type="poems">
         <pb id="p1" n="[1]"/>
-        <head>THE<lb>FOREST SANCTUARY.</lb></head>
+        <head>THE<lb/>FOREST SANCTUARY.</head>
         <epigraph>
           <l rend="indent4">
             <foreign lang="ger">Ihr Pltze aller meiner stillen freuden,</foreign>
@@ -2709,7 +2707,7 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <pb id="p107" n="107"/>
           <head>MOORISH BRIDAL SONG.</head>
           <milestone n="______________" unit="typography">
-            <opener>It is a custom among the Moors, that a female who dies unmarried is clothed for<lb>interment in wedding apparel, and the bridal song is sung over her remains<lb>before they are borne from her home.<lb>See the Narrative of a Ten Years' Residence in Tripoli, by the sister&#xAD;in&#xAD;law of Mr. Tully.</lb></lb></lb></opener>
+            <opener>It is a custom among the Moors, that a female who dies unmarried is clothed for<lb/>interment in wedding apparel, and the bridal song is sung over her remains<lb/>before they are borne from her home.<lb/>See the Narrative of a Ten Years' Residence in Tripoli, by the sister&#xAD;in&#xAD;law of Mr. Tully.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l rend="indent1">T<hi rend="smallcaps">HE</hi> citron groves their fruit and flowers were strewing</l>
@@ -2761,7 +2759,7 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <pb id="p109" n="109"/>
           <head>THE BIRD'S RELEASE.</head>
           <milestone n="______________" unit="typography">
-            <opener>The Indians of Bengal and of the Coast of Malabar bring cages filled with birds<lb>to the graves of their friends, over which they set the birds at liberty.<lb>This custom is alluded to in the description of Virginia's funeral.</lb></lb></opener>
+            <opener>The Indians of Bengal and of the Coast of Malabar bring cages filled with birds<lb/>to the graves of their friends, over which they set the birds at liberty.<lb/>This custom is alluded to in the description of Virginia's funeral.</opener>
             <bibl>
               <emph rend="smallcaps">See Paul and Virginia.</emph>
             </bibl>
@@ -2830,7 +2828,7 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <head>THE SWORD OF THE TOMB.</head>
           <head rend="SUB">A NORTHERN LEGEND.</head>
           <milestone n="______________" unit="typography">
-            <opener>The idea of this ballad is taken from a scene in "Starkother," a tragedy by the<lb>Danish poet Ochlenschlager. The sepulchral fire here alluded to, and sup&#xAD;<lb>posed to guard the ashes of deceased heroes, is frequently mentioned in the<lb>Northern Sagas. Severe sufferings to the departed spirit were supposed by the<lb>Scandinavian mythologists to be the consequence of any profanation of<lb>the sepulchre.</lb></lb></lb></lb></lb></opener>
+            <opener>The idea of this ballad is taken from a scene in "Starkother," a tragedy by the<lb/>Danish poet Ochlenschlager. The sepulchral fire here alluded to, and sup&#xAD;<lb/>posed to guard the ashes of deceased heroes, is frequently mentioned in the<lb/>Northern Sagas. Severe sufferings to the departed spirit were supposed by the<lb/>Scandinavian mythologists to be the consequence of any profanation of<lb/>the sepulchre.</opener>
             <bibl>
               <emph rend="smallcaps">See Ochlenschlager's Plays.</emph>
             </bibl>
@@ -3049,8 +3047,8 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <pb id="p120" n="120"/>
           <head>VALKYRIUR SONG.</head>
           <milestone n="______________" unit="typography">
-            <opener>The Valkyriur, or Fatal Sisters of Northern mythology, were supposed to single<lb>out the warriors who were to die in battle, and be received into the halls of<lb>Odin.</lb></lb></opener>
-            <opener>When a Northern chief fell gloriously in war, his obsequies were honoured with<lb>all possible magnificence. His arms, gold and silver, war&#xAD;horse, domestic<lb>attendants, and whatever else he held most dear, were placed with him on<lb>the pile. His dependants and friends frequently made it a point of honour<lb>to die with their leader, in order to attend on his shade in Valhalla, or the<lb>Palace of Odin. And lastly, his wife was generally consumed with him on<lb>the same pile.</lb></lb></lb></lb></lb></lb></opener>
+            <opener>The Valkyriur, or Fatal Sisters of Northern mythology, were supposed to single<lb/>out the warriors who were to die in battle, and be received into the halls of<lb/>Odin.</opener>
+            <opener>When a Northern chief fell gloriously in war, his obsequies were honoured with<lb/>all possible magnificence. His arms, gold and silver, war&#xAD;horse, domestic<lb/>attendants, and whatever else he held most dear, were placed with him on<lb/>the pile. His dependants and friends frequently made it a point of honour<lb/>to die with their leader, in order to attend on his shade in Valhalla, or the<lb/>Palace of Odin. And lastly, his wife was generally consumed with him on<lb/>the same pile.</opener>
             <bibl>
               <emph rend="smallcaps">See Mallet's Northern Antiquities, Herbert's Helga, c.</emph>
             </bibl>
@@ -3173,8 +3171,9 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <head>THE CAVERN OF THE THREE TELLS.</head>
           <head rend="sub">SWISS TRADITION.</head>
           <milestone n="______________" unit="typography">
-            <opener>The three founders of the Helvetic Confederacy are thought to sleep in a cavern<lb>near the Lake of Lucerne. The herdsmen call them the Three Tells;<lb>and say that they lie there in their antique garb, in quiet slumber; and<lb>when Switzerland is in her utmost need, they will awaken and regain the<lb>liberties of the land.<lb>See Quarterly Review, No. 44.</lb></lb></lb></lb></lb></opener>
-            <opener>The Grtli, where the confederates held their nightly meetings, is a meadow on<lb>the shore of the Lake of Lucerne, or Lake of the Forest&#xAD;cantons, here<lb>called the Forest&#xAD;sea.</lb></lb></opener>
+            <opener>The three founders of the Helvetic Confederacy are thought to sleep in a cavern<lb/>near the Lake of Lucerne. The herdsmen call them the Three Tells;<lb/>and say that they lie there in their antique garb, in quiet slumber; and<lb/>when Switzerland is in her utmost need, they will awaken and regain the<lb/>liberties of the land.<lb/>
+See Quarterly Review, No. 44.</opener>
+            <opener>The Grtli, where the confederates held their nightly meetings, is a meadow on<lb/>the shore of the Lake of Lucerne, or Lake of the Forest&#xAD;cantons, here<lb/>called the Forest&#xAD;sea.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l>O<hi rend="smallcaps">H</hi>! enter not yon shadowy cave,</l>
@@ -3270,7 +3269,7 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <head>SWISS SONG,</head>
           <head rend="sub">ON THE ANNIVERSARY OF AN ANCIENT BATTLE.</head>
           <milestone n="______________" unit="typography">
-            <opener>The Swiss, even to our days, have continued to celebrate the anniversaries of<lb>their ancient battles with much solemnity; assembling in the open air on<lb>the fields where their ancestors fought, to hear thanksgivings offered up by<lb>the priests, and the names of all who shared in the glory of the day<lb>enumerated. They afterwards walk in procession to chapels, always erected<lb>in the vicinity of such scenes, where masses are sung for the souls of the<lb>departed.</lb></lb></lb></lb></lb></lb></opener>
+            <opener>The Swiss, even to our days, have continued to celebrate the anniversaries of<lb/>their ancient battles with much solemnity; assembling in the open air on<lb/>the fields where their ancestors fought, to hear thanksgivings offered up by<lb/>the priests, and the names of all who shared in the glory of the day<lb/>enumerated. They afterwards walk in procession to chapels, always erected<lb/>in the vicinity of such scenes, where masses are sung for the souls of the<lb/>departed.</opener>
             <bibl>
               <emph rend="smallcaps">See Planta's History of the Helvetic Confederacy.</emph>
             </bibl>
@@ -3348,7 +3347,7 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <pb id="p131" n="131"/>
           <head>THE MESSENGER&#xAD;BIRD.</head>
           <milestone n="______________" unit="typography">
-            <opener>Some of the native Brazilians pay great veneration to a certain bird that sings<lb>mournfully in the night&#xAD;time. They say it is a messenger which their de&#xAD;<lb>ceased friends and relations have sent, and that it brings them news from the<lb>other world.</lb></lb></lb></opener>
+            <opener>Some of the native Brazilians pay great veneration to a certain bird that sings<lb/>mournfully in the night&#xAD;time. They say it is a messenger which their de&#xAD;<lb/>ceased friends and relations have sent, and that it brings them news from the<lb/>other world.</opener>
             <bibl>
               <emph rend="smallcaps">See Picart's Ceremonies and Religious Customs.</emph>
             </bibl>
@@ -3411,8 +3410,8 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <pb id="p134" n="134"/>
           <head>THE STRANGER IN LOUISIANA.</head>
           <milestone n="______________" unit="typography">
-            <opener>An early traveller mentions a people on the banks of the Mississippi who burst<lb>into tears at the sight of a stranger. The reason of this is, that they fancy<lb>their deceased friends and relations to be only gone on a journey, and being<lb>in constant expectation of their return, look for them vainly amongst these<lb>foreign travellers.<lb>Picart's Ceremonies and Religious Customs.</lb></lb></lb></lb></lb></opener>
-            <opener><foreign lang="fre">"J'ai pass moi&#xAD;mme," </foreign>says Chateaubriand in his <foreign lang="fre">Souvenirs d'Amerique</foreign>, <lb><foreign lang="fre">"chez une peuplade indienne qui se prenait  pleurer  la vue d'un<lb>voyageur, parce qu'il lui rappelait des amis partis pour la <emph rend="italics">Contre des<lb>Ames</lb></emph>, et depuis long&#xAD;tems <emph rend="italics">en voyage</emph>."</lb></foreign></lb></opener>
+            <opener>An early traveller mentions a people on the banks of the Mississippi who burst<lb/>into tears at the sight of a stranger. The reason of this is, that they fancy<lb/>their deceased friends and relations to be only gone on a journey, and being<lb/>in constant expectation of their return, look for them vainly amongst these<lb/>foreign travellers.<lb/>Picart's Ceremonies and Religious Customs.</opener>
+            <opener><foreign lang="fre">"J'ai pass moi&#xAD;mme," </foreign>says Chateaubriand in his <foreign lang="fre">Souvenirs d'Amerique</foreign>, <lb/><foreign lang="fre">"chez une peuplade indienne qui se prenait  pleurer  la vue d'un<lb/>voyageur, parce qu'il lui rappelait des amis partis pour la <emph rend="italics">Contre des<lb/>Ames</emph>, et depuis long&#xAD;tems <emph rend="italics">en voyage</emph>."</foreign></opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l rend="indent4">W<hi rend="smallcaps">E</hi> saw thee, O stranger, and wept!</l>
@@ -3469,7 +3468,8 @@ sea, mentions the entreaty of the officiating priest, that the body, which had b
           <head>THE ISLE OF FOUNTS.</head>
           <head rend="sub">AN INDIAN TRADITION.</head>
           <milestone n="______________" unit="typography">
-            <opener>"The River St. Mary has its source from a vast lake or marsh, which lies<lb>between Flint and Oakmulge rivers, and occupies a space of near three<lb>hundred miles in circuit. This vast accumulation of waters, in the wet<lb>season, appears as a lake, and contains some large islands or knolls of rich<lb>high land; one of which the present generation of the Creek Indians repre&#xAD;<lb>sent to be a most blissful spot of earth: they say it is inhabited by a pe&#xAD;<lb>culiar race of Indians, whose women are incomparably beautiful. They also<lb>tell you that this terrestrial paradise has been seen by some of their enter&#xAD;<lb>prising hunters, when in pursuit of game; but that in their endeavours to<lb>approach it, they were involved in perpetual labyrinths, and like enchanted<lb>land, still as they imagined they had just gained it, it seemed to fly before<lb>them, alternately appearing and disappearing. They resolved, at length,<lb>to leave the delusive pursuit, and to return, which, after a number of dif&#xAD;<lb>ficulties, they effected. When they reported their adventures to their<lb>countrymen, the young warriors were inflamed with an irresistible desire to<lb>invade, and make a conquest of, so charming a country; but all their at&#xAD;<lb>tempts have hitherto proved abortive, never having been able again to find<lb>that enchanting spot."<lb> Bartram's Travels Through North and South Carolina, c.<lb>The additional circumstances in the "Isle of Founts" are merely imaginary.</lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></opener>
+            <opener>"The River St. Mary has its source from a vast lake or marsh, which lies<lb/>between Flint and Oakmulge rivers, and occupies a space of near three<lb/>hundred miles in circuit. This vast accumulation of waters, in the wet<lb/>season, appears as a lake, and contains some large islands or knolls of rich<lb/>high land; one of which the present generation of the Creek Indians repre&#xAD;<lb/>sent to be a most blissful spot of earth: they say it is inhabited by a pe&#xAD;<lb/>culiar race of Indians, whose women are incomparably beautiful. They also<lb/>tell you that this terrestrial paradise has been seen by some of their enter&#xAD;<lb/>prising hunters, when in pursuit of game; but that in their endeavours to<lb/>approach it, they were involved in perpetual labyrinths, and like enchanted<lb/>land, still as they imagined they had just gained it, it seemed to fly before<lb/>them, alternately appearing and disappearing. They resolved, at length,<lb/>to leave the delusive pursuit, and to return, which, after a number of dif&#xAD;<lb/>ficulties, they effected. When they reported their adventures to their<lb/>countrymen, the young warriors were inflamed with an irresistible desire to<lb/>invade, and make a conquest of, so charming a country; but all their at&#xAD;<lb/>tempts have hitherto proved abortive, never having been able again to find<lb/>that enchanting spot."<lb/>
+ Bartram's Travels Through North and South Carolina, c.<lb/>The additional circumstances in the "Isle of Founts" are merely imaginary.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l rend="indent1">S<hi rend="smallcaps">ON</hi> of the stranger! wouldst thou take</l>
@@ -3590,7 +3590,7 @@ reach of their eyes. Their heads are said to be crowned with a carbuncle, of daz
           <pb id="p142" n="142"/>
           <head>THE BENDED BOW.</head>
           <milestone n="______________" unit="typography">
-            <opener>It is supposed that war was anciently proclaimed in Britain by sending mes&#xAD;<lb>sengers in different directions through the land, each bearing <hi rend="italics">a bended bow;</hi><lb> and that peace was in like manner announced by a bow unstrung, and there&#xAD;<lb>fore straight.</lb></lb></lb></opener>
+            <opener>It is supposed that war was anciently proclaimed in Britain by sending mes&#xAD;<lb/>sengers in different directions through the land, each bearing <hi rend="italics">a bended bow;</hi><lb/> and that peace was in like manner announced by a bow unstrung, and there&#xAD;<lb/>fore straight.</opener>
             <bibl>
               <emph rend="smallcaps">See the Cambrian Antiquities.</emph>
             </bibl>
@@ -3670,7 +3670,7 @@ reach of their eyes. Their heads are said to be crowned with a carbuncle, of daz
           <pb id="p145" n="145"/>
           <head>HE NEVER SMILED AGAIN<ref target="hema-note30" id="hema30" n="30" resp="author">*</ref></head>
           <milestone n="______________" unit="typography">
-            <opener>It is recorded of Henry the First, that after the death of his son, Prince William,<lb>who perished in a shipwreck off the coast of Normandy, he was never seen<lb>to smile.</lb></lb></opener>
+            <opener>It is recorded of Henry the First, that after the death of his son, Prince William,<lb/>who perished in a shipwreck off the coast of Normandy, he was never seen<lb/>to smile.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l>T<hi rend="smallcaps">HE</hi> bark that held a prince went down,</l>
@@ -3722,7 +3722,7 @@ reach of their eyes. Their heads are said to be crowned with a carbuncle, of daz
           <pb id="p148" n="148"/>
           <head>COEUR DE LION AT THE BIER OF HIS FATHER.</head>
           <milestone n="______________" unit="typography">
-            <opener>The body of Henry the Second lay in state in the abbey&#xAD;church of Fontevraud,<lb>where it was visited by Richard Coeur&#xAD;de&#xAD;Lion, who, on beholding it, was<lb>struck with horror and remorse, and bitterly reproached himself for that<lb>rebellious conduct which had been the means of bringing his father to an<lb>untimely grave.</lb></lb></lb></lb></opener>
+            <opener>The body of Henry the Second lay in state in the abbey&#xAD;church of Fontevraud,<lb/>where it was visited by Richard Coeur&#xAD;de&#xAD;Lion, who, on beholding it, was<lb/>struck with horror and remorse, and bitterly reproached himself for that<lb/>rebellious conduct which had been the means of bringing his father to an<lb/>untimely grave.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l rend="indent1">T<hi rend="smallcaps">ORCHES</hi> were blazing clear,</l>
@@ -3856,7 +3856,7 @@ reach of their eyes. Their heads are said to be crowned with a carbuncle, of daz
           <pb id="p154" n="154"/>
           <head>THE VASSAL'S LAMENT FOR THE FALLEN TREE.</head>
           <milestone n="______________" unit="typography">
-            <opener>"Here (at Brereton in Cheshire) is one thing incredibly strange, but attested, as<lb>I myself have heard, by many persons, and commonly believed. Before any<lb>heir of this family dies, there are seen, in a lake adjoining, the bodies of<lb>trees swimming on the water for several days."</lb></lb></lb></opener>
+            <opener>"Here (at Brereton in Cheshire) is one thing incredibly strange, but attested, as<lb/>I myself have heard, by many persons, and commonly believed. Before any<lb/>heir of this family dies, there are seen, in a lake adjoining, the bodies of<lb/>trees swimming on the water for several days."</opener>
             <bibl>
               <emph rend="smallcaps">Camden's Britannia.</emph>
             </bibl>
@@ -3943,7 +3943,7 @@ reach of their eyes. Their heads are said to be crowned with a carbuncle, of daz
           <pb id="p158" n="158"/>
           <head>THE WILD HUNTSMAN.</head>
           <milestone n="______________" unit="typography">
-            <opener>It is a popular belief in the Odenwald, that the passing of the Wild Huntsman<lb>announces the approach of war. He is supposed to issue with his train from<lb>the ruined castle of Rodenstein, and traverse the air to the opposite castle<lb>of Schnellerts. It is confidently asserted that the sound of his phantom horses<lb>and hounds was heard by the Duke of Baden before the commence&#xAD;<lb>ment of the last war in Germany.</lb></lb></lb></lb></lb></opener>
+            <opener>It is a popular belief in the Odenwald, that the passing of the Wild Huntsman<lb/>announces the approach of war. He is supposed to issue with his train from<lb/>the ruined castle of Rodenstein, and traverse the air to the opposite castle<lb/>of Schnellerts. It is confidently asserted that the sound of his phantom horses<lb/>and hounds was heard by the Duke of Baden before the commence&#xAD;<lb/>ment of the last war in Germany.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l>T<hi rend="smallcaps">HY</hi> rest was deep at the slumberer's hour</l>
@@ -4165,7 +4165,7 @@ reach of their eyes. Their heads are said to be crowned with a carbuncle, of daz
           <head>GREEK FUNERAL CHANT OR MYRIOLOGUE.</head>
           <milestone n="______________" unit="typography">
             <opener>
-              <foreign lang="fre">Les Chants Funbres par lesquels on dplore en Grce la mort de ses<lb>proches, prennent le nom particulier de Myriologia, comme qui dirait, Dis&#xAD;<lb>cours de lamentation, complaintes. Un malade vient&#xAD;il de rendre le dernier<lb>soupir, sa femme, sa mre, ses filles, ses soeurs, celles, en un mot, de ses plus<lb>proches parentes qui sont l, lui ferment les yeux et la bouche, en panchant<lb>librement, chacune selon son naturel et sa mesure de tendresse pour le d&#xAD;<lb>funt, la douleur qu'elle ressent de sa perte. Ce premier devoir rempli,<lb>elles se retirent toutes chez une de leurs parentes ou de leurs amies. L elles<lb>changent de vtemens, s'habillent de blanc, comme pour la cremonie nup&#xAD;<lb>tiale, avec cette difference, qu'elles gardent la tte nue, les chevaux pars et<lb>pendants. Ces apprts termins, les parentes reviennent dans leur parure<lb>de deueil; toutes se rangent en circle autour du mort, et leur douleur s'ex&#xAD;<lb>hale de nouveau, et, comme la premire fois, sans rgle et sans contrainte.<lb>A ces plaintes spontanes succdent bientt des lamentations d'une autre<lb>espce: ce sont les <emph rend="italics">Myriologues</emph>. Ordinairement c'est la plus proche pa&#xAD;<lb>rente qui prononce le sien la premire; aprs elle les autres parentes, les<lb>amies, les simples voisines. Les Myriologues sont toujours composs et<lb>chants par les femmes. Ils sont toujours improviss, toujours en vers, et <lb>toujours chants sur un air qui diffre d'un lieu  un autre, mais qui, dans<lb>un lieu donn, reste invariablement consacr  ce genre de posie."</lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></lb></foreign>
+              <foreign lang="fre">Les Chants Funbres par lesquels on dplore en Grce la mort de ses<lb/>proches, prennent le nom particulier de Myriologia, comme qui dirait, Dis&#xAD;<lb/>cours de lamentation, complaintes. Un malade vient&#xAD;il de rendre le dernier<lb/>soupir, sa femme, sa mre, ses filles, ses soeurs, celles, en un mot, de ses plus<lb/>proches parentes qui sont l, lui ferment les yeux et la bouche, en panchant<lb/>librement, chacune selon son naturel et sa mesure de tendresse pour le d&#xAD;<lb/>funt, la douleur qu'elle ressent de sa perte. Ce premier devoir rempli,<lb/>elles se retirent toutes chez une de leurs parentes ou de leurs amies. L elles<lb/>changent de vtemens, s'habillent de blanc, comme pour la cremonie nup&#xAD;<lb/>tiale, avec cette difference, qu'elles gardent la tte nue, les chevaux pars et<lb/>pendants. Ces apprts termins, les parentes reviennent dans leur parure<lb/>de deueil; toutes se rangent en circle autour du mort, et leur douleur s'ex&#xAD;<lb/>hale de nouveau, et, comme la premire fois, sans rgle et sans contrainte.<lb/>A ces plaintes spontanes succdent bientt des lamentations d'une autre<lb/>espce: ce sont les <emph rend="italics">Myriologues</emph>. Ordinairement c'est la plus proche pa&#xAD;<lb/>rente qui prononce le sien la premire; aprs elle les autres parentes, les<lb/>amies, les simples voisines. Les Myriologues sont toujours composs et<lb/>chants par les femmes. Ils sont toujours improviss, toujours en vers, et <lb/>toujours chants sur un air qui diffre d'un lieu  un autre, mais qui, dans<lb/>un lieu donn, reste invariablement consacr  ce genre de posie."</foreign>
             </opener>
             <bibl>
               <emph rend="smallcaps">
@@ -4271,7 +4271,7 @@ source,</l>
           <pb id="p173" n="173"/>
           <head>THE PARTING SONG.</head>
           <milestone n="______________" unit="typography">
-            <opener>This piece is founded on a tale related by Fauriel, in his <foreign lang="fre">"Chansons Populaires<lb>de la Grce Moderne,"</lb></foreign> and accompanied by some very interesting particulars<lb> respecting the extempore parting songs, or songs of expatriation, as he in&#xAD;<lb>forms us they are called, in which the modern Greeks are accustomed to<lb>pour forth their feelings on bidding farewell to their country and friends.</lb></lb></lb></opener>
+            <opener>This piece is founded on a tale related by Fauriel, in his <foreign lang="fre">"Chansons Populaires<lb/>de la Grce Moderne,"</foreign> and accompanied by some very interesting particulars<lb/> respecting the extempore parting songs, or songs of expatriation, as he in&#xAD;<lb/>forms us they are called, in which the modern Greeks are accustomed to<lb/>pour forth their feelings on bidding farewell to their country and friends.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza">
                 <l>A<hi rend="smallcaps"> YOUTH</hi> went forth to exile, from a home</l>
@@ -4405,7 +4405,7 @@ hast smil'd,</l>
           <pb id="p179" n="179"/>
           <head>THE SULIOTE MOTHER.</head>
           <milestone n="______________" unit="typography">
-            <opener>It is related in a French Life of Ali Pacha, that several of the Suliote women,<lb>on the advance of the Turkish troops into their mountain fastnesses, as&#xAD;<lb>sembled on a lofty summit, and, after chanting a wild song, precipitated<lb>themselves, with their children, into the chasm below, to avoid becoming<lb>the slaves of the enemy.</lb></lb></lb></lb></opener>
+            <opener>It is related in a French Life of Ali Pacha, that several of the Suliote women,<lb/>on the advance of the Turkish troops into their mountain fastnesses, as&#xAD;<lb/>sembled on a lofty summit, and, after chanting a wild song, precipitated<lb/>themselves, with their children, into the chasm below, to avoid becoming<lb/>the slaves of the enemy.</opener>
             <milestone n="______________" unit="typography">
               <lg type="stanza" rend="center">
                 <l rend="indent4">S<hi rend="smallcaps">HE</hi> stood upon the loftiest peak,</l>
@@ -4478,7 +4478,7 @@ hast smil'd,</l>
           <pb id="p182" n="182"/>
           <head>THE FAREWELL TO THE DEAD.</head>
           <milestone n="______________" unit="typography">
-            <opener>The following piece is founded on a beautiful part of the Greek funeral service,<lb>in which relatives and friends are invited to embrace the deceased (whose<lb>face is uncovered) and to bid their final adieu.</lb></lb></opener>
+            <opener>The following piece is founded on a beautiful part of the Greek funeral service,<lb/>in which relatives and friends are invited to embrace the deceased (whose<lb/>face is uncovered) and to bid their final adieu.</opener>
             <bibl>
               <emph rend="smallcaps">See Christian Researches in the Mediterranean.</emph>
             </bibl>
@@ -4780,7 +4780,7 @@ hast smil'd,</l>
           <head>THEKLA'S SONG; OR, THE VOICE OF A SPIRIT.</head>
           <head rend="sub">FROM THE GERMAN OF SCHILLER.</head>
           <milestone n="______________" unit="typography">
-            <opener>This Song is said to have been composed by Schiller in answer to the inquiries<lb>of his friends respecting the fate of <hi rend="italics">Thekla</hi>, whose beautiful character is<lb>withdrawn from the tragedy of "Wallenstein's Death," after her resolution<lb>to visit the grave of her lover is made known.</lb></lb></lb></opener>
+            <opener>This Song is said to have been composed by Schiller in answer to the inquiries<lb/>of his friends respecting the fate of <hi rend="italics">Thekla</hi>, whose beautiful character is<lb/>withdrawn from the tragedy of "Wallenstein's Death," after her resolution<lb/>to visit the grave of her lover is made known.</opener>
             <q>
               <lg type="stanza">
                 <l rend="indent8">&#x2014;&#x2014;"'Tis not merely</l>
@@ -5031,7 +5031,8 @@ hast smil'd,</l>
       </div1>
       <closer>THE END.</closer>
       <trailer>
-        <emph rend="smallcaps">LONDON:<lb>PRINTED BY THOMAS DAVISON, WHITEFRIARS.</lb></emph>
+        <emph rend="smallcaps">LONDON:<lb/>
+PRINTED BY THOMAS DAVISON, WHITEFRIARS.</emph>
       </trailer>
     </body>
   </text>
